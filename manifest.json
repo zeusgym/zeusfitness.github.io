@@ -1,0 +1,41 @@
+{
+	"name" : "contact",
+	"short_name" : "cnon",
+	"start_url" : "index.html",
+	"display" : "standalone",
+	"background_color" : "#4db6ac",
+	"theme_color" : "#00695c",
+	"orientation" : "portrait-primary",
+	"icons" : [
+		{
+			"src" : "icons/36x36.png",
+			"type" : "image\/png",
+			"sizes" : "36x36"
+		},
+		{
+			"src" : "icons/48x48.png",
+			"type" : "image\/png",
+			"sizes" : "48x48"
+		},
+		{
+			"src" : "icons/72x72.png",
+			"type" : "image\/png",
+			"sizes" : "72x72"
+		},
+		{
+			"src" : "icons/96x96.png",
+			"type" : "image\/png",
+			"sizes" : "96x96"
+		},
+		{
+			"src" : "icons/144x144.png",
+			"type" : "image/png",
+			"sizes" : "144x144"
+		},
+		{
+			"src" : "icons/192x192.png",
+			"type" : "image\/png",
+			"sizes" : "192x192"
+		}
+	]
+}
